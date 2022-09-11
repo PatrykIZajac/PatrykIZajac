@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
 
-<h3 align="center"> 🌱 I’m currently learning <b>Flutter<b> </h3>
-
 <h3 align="center"> 📝 <a href="https://www.linkedin.com/in/patryk-zaj%C4%85c-077769190/">LinkedIn</a></h3> </h3>
 
 <h3 align="center"> 📫 <b> patrykzajac11@gmail.com</b> </h3>
